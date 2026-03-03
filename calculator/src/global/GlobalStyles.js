@@ -8,4 +8,15 @@ export const GlobalStyle = createGlobalStyle`
 
         font-family: 'Inter', sans-serif;
     }
+
+    body {
+        background-color: #C8CBD2;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        width: 100%;
+        height: 100vh;
+    }
 `;
