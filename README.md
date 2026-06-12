@@ -80,7 +80,7 @@ Características principais:
 react-calculator/
 │
 ├── calculator
-│   └── src
+│   ├── src
 │   │   ├── components/       # Componentes reutilizáveis
 │   │   ├── global/           # Estilos globais
 │   │   ├── App.jsx           # Componente principal
