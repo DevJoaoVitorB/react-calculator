@@ -121,7 +121,7 @@ git clone https://github.com/DevJoaoVitorB/react-calculator.git
 ### 2. Entrar na Pasta
 
 ```bash
-cd calculator
+cd react-calculator
 ```
 
 ### 3. Instalar Dependências
